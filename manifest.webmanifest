@@ -1,0 +1,1 @@
+{"name":"Poundgem Invoice Generator","short_name":"Poundgem","description":"Local-only invoices and receipts for Poundgem Ltd","start_url":"./","scope":"./","display":"standalone","background_color":"#f3f6fb","theme_color":"#152a4b","icons":[{"src":"icon.png","sizes":"192x192","type":"image/png","purpose":"any maskable"}]}
